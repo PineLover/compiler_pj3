@@ -1,0 +1,6 @@
+prj1.
+if you have problem in parsing, you have to suspicious to your cminus.l file
+
+prj2.
+
+focuse on parser. you have to setting #define PARSE
